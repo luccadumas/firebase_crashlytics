@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "552143021375",
+    "project_id": "gok-crashlytics",
+    "storage_bucket": "gok-crashlytics.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:552143021375:android:8149a7a86b760c0f9e9f8a",
+        "android_client_info": {
+          "package_name": "com.gok.crashlytics"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "552143021375-66i2s7td24q015skbtkojkq1a3n9fhs1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSfhn-8x6NPQT8yb_Z1hSdpBjBgIm3D7U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "552143021375-66i2s7td24q015skbtkojkq1a3n9fhs1.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "552143021375-h83adqd7p4c0f73ljr1nu6fmblqs07lc.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.gok.crashlytics"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

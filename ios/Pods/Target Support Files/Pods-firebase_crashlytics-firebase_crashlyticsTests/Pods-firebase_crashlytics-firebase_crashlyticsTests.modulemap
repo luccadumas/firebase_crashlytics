@@ -1,0 +1,6 @@
+module Pods_firebase_crashlytics_firebase_crashlyticsTests {
+  umbrella header "Pods-firebase_crashlytics-firebase_crashlyticsTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
